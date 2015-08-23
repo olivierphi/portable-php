@@ -1,0 +1,7 @@
+/*/bin/*
+!/*/bin/.gitignore
+!/*/bin/mini.php.ini
+!/*/bin/phpinfo.php
+
+/linux/docker-shared/lib/*
+!/linux/docker-shared/lib/.gitignore
